@@ -1,0 +1,33 @@
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.el-breadcrum {
+    font-size: 12px;
+}
+
+.el-card {
+    margin-top: 20px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
+}
+
+.el-table {
+    margin-top: 15px;
+    font-size: 12px;
+}
+
+.cell {
+    text-align: center;
+}
+
+.el-cascader-panel {
+    height: 300px;
+}
+
+.el-pagination {
+    margin-top: 15px;
+}
